@@ -7,6 +7,8 @@
 
 ## Download
 
+![image](https://github.com/titaniummachine1/Triggerbot_Lua/assets/78664175/9e8adee3-2b9b-41f2-9bf8-929805301958)
+
 [![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/Triggerbot_Lua/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/Triggerbot_Lua/releases/latest/download/A_triggerbot.lua)
 
 
