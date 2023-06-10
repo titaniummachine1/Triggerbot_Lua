@@ -7,7 +7,7 @@
 
 ## Download
 
-[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/Swing_prediction.lua/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/Triggerbot_Lua/releases/latest/download/A_triggerbot.lua)
+[![Download Latest](https://img.shields.io/github/downloads/titaniummachine1/Triggerbot_Lua/total.svg?style=for-the-badge&logo=download&label=Download%20Latest)](https://github.com/titaniummachine1/Triggerbot_Lua/releases/latest/download/A_triggerbot.lua)
 
 
 
